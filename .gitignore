@@ -1,0 +1,12 @@
+# Backup files
+*.tar.gz
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+*.tmp
+
+# Environment secrets
+.env
